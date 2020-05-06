@@ -1,3 +1,8 @@
 {
-    "java.dependency.packagePresentation": "flat"
+    "java.dependency.packagePresentation": "flat",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files (x86)\\MySQL\\Connector J 5.1\\mysql-connector-java-5.1.42-bin.jar",
+        "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-java-8.0.20.jar"
+    ]
 }
